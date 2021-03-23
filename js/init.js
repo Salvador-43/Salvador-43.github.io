@@ -1,3 +1,5 @@
+
+//@ts-ignore
 firebase.initializeAPP({
     apiKey: "AIzaSyDXoT5XF-wQIVHFaYOt9eJBMm7gkSjqa78",
     authDomain: "autentifica43-tps.firebaseapp.com",
